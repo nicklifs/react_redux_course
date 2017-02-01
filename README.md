@@ -8,7 +8,7 @@ npm run lint
 
 
 dev:
-npm run
+npm start
 
 prod:
 npm run build
